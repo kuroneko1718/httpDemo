@@ -1,0 +1,21 @@
+{
+    "name": "kuro/http-demo",
+    "description": "CURL HTTP DEMO",
+    "type": "library",
+    "require": {
+        "php": ">=5.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kuro\\HttpDemo\\": "src/http/lib"
+        }
+    },
+    "authors": [
+        {
+            "name": "kuro",
+            "email": "kuroneko96@126.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
